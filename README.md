@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=study%20git!&fontSize=90)
 ![JS](https://img.shields.io/badge/hanul-kym-red?style=social)
-# ✨ Study ✨:clap:
+# ✨ test image ✨:clap:
 :school:   Googling     :house:
 
 <img src="https://t1.daumcdn.net/cafeattach/1XmRu/15cdcea424a0e101ae000d27e2f54220d1e39e0c"  style='width:400px; height : 200px' />
