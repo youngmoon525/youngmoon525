@@ -3,7 +3,7 @@
 # ✨ test image ✨:clap:
 :school:   Googling     :house:
 
-<img src="https://t1.daumcdn.net/cafeattach/1XmRu/15cdcea424a0e101ae000d27e2f54220d1e39e0c"  style='width:400px; height : 200px' />
+<center><img  src="https://media.vlpt.us/images/onenonly/post/14c37996-9b4d-46a3-a1a9-ea686d172e2f/giphy.gif"  style='width:400px; height : 400px ; /></center>
 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-Dashe&logo=Java&logoColor=white"  style='height : 20px' /></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=Static-square&logo=Spring&logoColor=white" style='height : 20px'></a>
