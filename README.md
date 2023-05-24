@@ -3,7 +3,7 @@
 
 
 
-<img  src="https://media.vlpt.us/images/onenonly/post/14c37996-9b4d-46a3-a1a9-ea686d172e2f/giphy.gif"  style='width:400px; height : 400px ;' />
+<img  src="https://media.vlpt.us/images/onenonly/post/14c37996-9b4d-46a3-a1a9-ea686d172e2f/giphy.gif"  style='width:200px; height : 200px ; margin: 0 auto;' />
 
 <img src="https://img.shields.io/badge/Java-3766AB?style=flat-Dashe&logo=Java&logoColor=white"  style='height : 20px' /></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=Static-square&logo=Spring&logoColor=white" style='height : 20px'></a>
