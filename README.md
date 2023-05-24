@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=study%20git!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kym%20Git&fontSize=90)
 ![JS](https://img.shields.io/badge/hanul-kym-red?style=social)
-# ✨ test image ✨:clap:
-:school:   Googling     :house:
+
+
 
 <img  src="https://media.vlpt.us/images/onenonly/post/14c37996-9b4d-46a3-a1a9-ea686d172e2f/giphy.gif"  style='width:400px; height : 400px ;' />
 
