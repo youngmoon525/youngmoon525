@@ -18,8 +18,7 @@
 <img src="https://img.shields.io/badge/python-3766AB?style=Static-square&logo=python&logoColor=white"  style='height : 20px'/></a>
 <img src="https://img.shields.io/badge/selenium-5D003F?style=Static-square&logo=selenium&logoColor=white"  style='height : 20px'/></a>
 <img src="https://img.shields.io/badge/python-5C2D91?style=Static-square&logo=python&logoColor=white"  style='height : 20px'/></a>
-<img src="https://img.shields.io/badge/docker-3766AB?style=Static-square&logo=docker&logoColor=white"  style='height : 20px'/>
-
+<img src="https://img.shields.io/badge/docker-3766AB?style=Static-square&logo=docker&logoColor=white"  style='height : 20px'/></a>
 <img src="https://img.shields.io/badge/Mysql-0066AB?style=Static-square&logo=Mysql&logoColor=white"  style='height : 20px'/></a>
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"  style='height : 20px'/></a>
