@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Kym%20Git&fontSize=90)
+![header](https://capsule-render.vercel.app/apitype=Waving&color=auto&height=150&section=header&text=Kym%20Git&fontSize=30)
 ![JS](https://img.shields.io/badge/hanul-kym-red?style=social)
 
 
