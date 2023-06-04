@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Kym%20Git&fontSize=30)
 ![JS](https://img.shields.io/badge/hanul-kym-red?style=social)
 
-[io 보기]([(https://youngmoon525.github.io/])
+[io 보기]((https://youngmoon525.github.io/)
 
 <img  src="https://media.vlpt.us/images/onenonly/post/14c37996-9b4d-46a3-a1a9-ea686d172e2f/giphy.gif"  style='width:200px; height : 200px ; margin: 0 auto;' />
 
